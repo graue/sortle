@@ -3,7 +3,8 @@ Sortle
 
 [Sortle](http://esolangs.org/wiki/Sortle) is an
 [esoteric programming language](http://esolangs.org/wiki/Esoteric_programming_language)
-I designed back in 2005 based on insertion sort, regex matching
+that I ([Scott Feeney](https://github.com/graue))
+designed back in 2005 based on insertion sort, regex matching
 and side-effect-free expressions that rename themselves.
 
 This is just a geeky exercise for fun.
